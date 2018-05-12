@@ -1,0 +1,38 @@
+_repo: The-Growth-of-a-Soul_44107
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Field, Claud
+    alias: Field, Claud Herbert Alwyn
+    birthdate: 1863
+    deathdate: 1941
+    gutenberg_agent_id: '26394'
+    url: http://www.gutenberg.org/2009/agents/26394
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Strindberg, August
+    alias: Strindberg, Johan August
+    birthdate: 1849
+    deathdate: 1912
+    gutenberg_agent_id: '1609'
+    url: http://www.gutenberg.org/2009/agents/1609
+    wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
+description: ''
+gutenberg_issued: '2013-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44107'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, Swedish -- 19th century -- Biography'
+- !lcsh 'Autobiographical fiction'
+- !lcsh 'Strindberg, August, 1849-1912'
+- !lcc 'PT'
+title: The Growth of a Soul
+url: http://www.gutenberg.org/ebooks/44107
